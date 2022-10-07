@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">AmityTest</string>
+  <string name="action_retry">Retry</string>
+</resources>
